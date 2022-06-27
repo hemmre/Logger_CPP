@@ -1,0 +1,5 @@
+[Trace]	--Trace test demo--	Mon Jun 27 18:15:04 2022
+[Debug]	--Debug test demo--	Mon Jun 27 18:15:04 2022
+[Info]	--Info test demo--	Mon Jun 27 18:15:04 2022
+[Warn]	--Warn test demo--	Mon Jun 27 18:15:04 2022
+[Error]	--Error test demo--	Mon Jun 27 18:15:04 2022
